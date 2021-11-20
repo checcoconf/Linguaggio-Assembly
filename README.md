@@ -1,2 +1,2 @@
-# ProgrammiAssembly
-Alcuni programmi scritti in Assembly! Spero possano esservi utili.
+# Programmi in Assembly
+Alcuni programmi scritti in un linguaggio molto noto al mondo moderno <b>ASSEMBLY</b>! Spero possano esservi utili.
