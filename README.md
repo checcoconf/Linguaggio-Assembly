@@ -6,7 +6,7 @@
 
 # Repository Assembly
 
-Questo repository contiene esercizi, progetti e materiale di supporto per il corso di #Architettura degli Elaboratori e Sistemi Operativi#.
+Questo repository contiene esercizi, progetti e materiale di supporto per il corso di <b>Architettura degli Elaboratori e Sistemi Operativi</b>.
 
 ## Contenuti
 
