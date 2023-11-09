@@ -27,6 +27,9 @@ Il repository include:
 - [moltiplicazione.asm](https://github.com/checcoconf/ProgrammiAssembly/blob/main/moltiplicazione.asm)
 - [somma di dati.asm](https://github.com/checcoconf/ProgrammiAssembly/blob/main/somma%20di%20dati.asm)
 - [sottrazione.asm](https://github.com/checcoconf/ProgrammiAssembly/blob/main/sottrazione.asm)
+
+## IDE Utilizzato
+<code><img alt="EMU8086" width="40px" src="https://imag.malavida.com/mvimgbig/download-fs/emu8086-22518-0.jpg"/></code>
   
 ## Licenza
 
